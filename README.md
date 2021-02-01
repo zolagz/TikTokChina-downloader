@@ -3,3 +3,5 @@
   
 Github：https://github.com/Danny-Yxzl/TikTokChina-downloader  
 Gitee：https://gitee.com/yxzlwz/TikTokChina-downloader
+  
+为方便广大没有代码经验的用户，异想之旅准备了exe发行版，大家可以直接在右侧点击下载使用。详情请见发行版描述。  
